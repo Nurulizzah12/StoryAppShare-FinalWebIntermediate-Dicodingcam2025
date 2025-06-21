@@ -1,5 +1,3 @@
-# StoryAppShare-FinalWebIntermediate-Dicodingcam2025
-
 # 🌍Story App Share
 
 Story App Share adalah aadalah aplikasi web yang memungkinkan pengguna untuk mengunggah dan menjelajahi berbagai cerita dari seluruh penjuru Indonesia. Aplikasi ini dikembangkan sebagai bagian dari submission kelas **Belajar Fundamental Aplikasi Web Intermediate** oleh Dicoding. Pengguna dapat melihat cerita dari pengguna lain lengkap dengan lokasi di peta, serta membagikan cerita mereka dengan gambar dan narasi.
